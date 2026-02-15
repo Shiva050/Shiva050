@@ -1,3 +1,6 @@
+# 💫 About Me:
+Data Engineer focused on building scalable data systems and evolving toward AI / LLM-powered architectures. Passionate about distributed data processing, analytics engineering, and constraint-aware AI design.<br><br>🔭 Currently working on: RAG-based systems, agentic AI frameworks, and data-intensive applications<br>🤝 Looking to collaborate on: AI + Data Engineering projects, LLM applications, analytics platforms<br>🆘 Looking for help with: Advanced LLM orchestration, model optimization, production AI systems<br>🌱 Currently learning: RAG architectures, agentic workflows, LLM evaluation & optimization<br>💬 Ask me about: Data Engineering, Spark / SQL optimization, Microsoft Fabric, RAG design<br>⚡ Interests: Data Engineering, AI systems, LLM applications, distributed data & intelligence systems<br>🎯 Focus areas: Scalable data platforms, AI-integrated architectures, RAG/LLM systems, performance & reliability engineering<br>😄 Fun fact: I enjoy turning messy, ambiguous data problems into structured systems
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ shivaraj.akula) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akulashiva050@gmail.com) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akulashiva050@gmail.com) 
@@ -8,6 +11,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=Shiva050&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Shiva050&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva050&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Shiva050&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Shiva050&icon=0&color=0)](https://visitcount.itsvg.in)
